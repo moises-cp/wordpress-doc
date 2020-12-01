@@ -1,5 +1,11 @@
 # Replace Lost Password URL Slug
 
+Tested on: WordPress 5.5.3
+
+<br>
+
+
+
 To replace/rewrite the Lost Password URL when the user clicks on `Lost Password?` 
 
 - Add the lost password filter to WordPress
